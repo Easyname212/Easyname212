@@ -1,58 +1,49 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi there, I'm Rafi 👋</h1>
-<h3 align="center">Developer • Student • Crypto & Game Enthusiast</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
----
+###
 
-## 🚀 About Me
-- 🔭 Currently working on: **Web Development (CodeIgniter 4 + Bootstrap)**  
-- 🎮 Gamer & airdrop hunter: PUBG • Dota 2 • Honkai Star Rail  
-- 📊 Exploring: **Crypto trading**, automated tools, and Telegram/CEX systems  
-- 🌱 Learning: Backend development, APIs, and automation  
-- 🎓 Student in Information Systems with interest in statistics & math  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Easyname212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Easyname212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🧰 Tech Stack
-### 🔹 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,linux" />
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 🔹 Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=codeigniter,bootstrap" />
-</p>
+###
 
-### 🔹 Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Easyname212&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Easyname212&theme=react" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-## 🔗 Connect with Me
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</p>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Easyname212/Easyname212/output/snake.svg" alt="Snake animation" />
 
-## 📝 Fun Facts
-- ❤️ I love building automation for Telegram bots  
-- 📶 I enjoy optimizing trading strategies (EMA, OB, S/R, Stochastic)  
-- 🎨 Sometimes experiment with UI/UX concepts  
-- ⚡ Always exploring new game mechanics & web tech  
-
----
-
-⭐ **Feel free to explore my repositories and reach out if you're interested in collaborating!**
+###
