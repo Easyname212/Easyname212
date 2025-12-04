@@ -1,71 +1,58 @@
-# Hi, I'm [Nama Anda] 👋
-
-[Link ke portfolio/website Anda]
-
-Saya seorang [Gelar/Posisi Anda, misal: Frontend Developer, Mahasiswa Ilmu Komputer] yang bersemangat tentang [Bidang minat Anda, misal: pengembangan web, data science].
-
-### 🛠️ Tech Stack
-
-Berikut adalah beberapa teknologi yang saya gunakan:
-
-*   **Bahasa:** JavaScript, Python, HTML, CSS
-*   **Framework & Library:** React, Node.js, Express
-*   **Database:** MongoDB, PostgreSQL
-*   **Tools:** Git, Docker, VS Code
-
-### 📫 Cara Menghubungi Saya
-
-*   LinkedIn: [Link LinkedIn Anda]
-*   Email: [Email Anda]
-*   Portfolio: [Link Portfolio Anda]
+<!-- Banner / Header -->
+<h1 align="center">Hi there, I'm Rafi 👋</h1>
+<h3 align="center">Developer • Student • Crypto & Game Enthusiast</h3>
 
 ---
 
-### Template 2: Detail & Profesional
+## 🚀 About Me
+- 🔭 Currently working on: **Web Development (CodeIgniter 4 + Bootstrap)**  
+- 🎮 Gamer & airdrop hunter: PUBG • Dota 2 • Honkai Star Rail  
+- 📊 Exploring: **Crypto trading**, automated tools, and Telegram/CEX systems  
+- 🌱 Learning: Backend development, APIs, and automation  
+- 🎓 Student in Information Systems with interest in statistics & math  
 
-Template ini lebih lengkap, cocok untuk menampilkan profil secara profesional dan menarik perhatian recruiter.
+---
 
-```markdown
-# Hi there, I'm [Nama Anda]! 👋
+## 🧰 Tech Stack
+### 🔹 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,linux" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="[LINK_GIF_ANDA, misal: https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif]">
+### 🔹 Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=codeigniter,bootstrap" />
+</p>
 
-Saya adalah seorang **[Gelar/Posisi Anda]** yang berbasis di [Lokasi Anda]. Fokus utama saya adalah pada [Bidang spesialisasi Anda, misal: membangun aplikasi web yang responsif dan intuitif]. Saya adalah seorang pembelajar seumur hidup dan senang berkolaborasi dalam proyek-proyek open source.
+### 🔹 Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts" />
+</p>
 
-- 🔭 Saat ini saya sedang mengerjakan **[Nama proyek Anda]**.
-- 🌱 Saya sedang belajar tentang **[Teknologi yang sedang Anda pelajari]**.
-- 👯 Saya ingin berkolaborasi pada **[Jenis proyek yang Anda minati]**.
-- 💬 Tanyakan saya tentang **[Topik ahli Anda]**.
-- 📄 Lihat [portfolio saya](Link Portfolio) untuk mengetahui lebih lanjut.
-- ⚡ Fakta menarik: [Tambahkan fakta menarik tentang Anda]
+---
 
-### 🛠️ Tech Stack
+## 📈 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=react" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-### 🚀 Proyek Unggulan
+## 🔗 Connect with Me
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
 
-| Nama Proyek | Deskripsi Singkat | Teknologi | Link |
-| :--- | :--- | :--- | :--- |
-| **[Nama Proyek 1]** | [Deskripsi proyek 1, misal: Aplikasi to-do list dengan fitur autentikasi] | React, Node.js, MongoDB | [Link ke Repo] |
-| **[Nama Proyek 2]** | [Deskripsi proyek 2, misal: Dashboard analitik data penjualan] | Python, Pandas, Plotly | [Link ke Repo] |
-| **[Nama Proyek 3]** | [Deskripsi proyek 3, misal: Website landing page untuk klien] | HTML, CSS, JavaScript | [Link ke Repo] |
+---
 
-### 📊 Statistik GitHub
+## 📝 Fun Facts
+- ❤️ I love building automation for Telegram bots  
+- 📶 I enjoy optimizing trading strategies (EMA, OB, S/R, Stochastic)  
+- 🎨 Sometimes experiment with UI/UX concepts  
+- ⚡ Always exploring new game mechanics & web tech  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nama-user-anda&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nama-user-anda&layout=compact&theme=radical)
-
-### 📫 Cara Menghubungi Saya
-
-Jika Anda ingin berdiskusi atau berkolaborasi, jangan ragu untuk menghubungi saya!
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](Link-LinkedIn-Anda)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Email-Anda)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](Link-Portfolio-Anda)
+⭐ **Feel free to explore my repositories and reach out if you're interested in collaborating!**
