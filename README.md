@@ -33,8 +33,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=react" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Easyname212&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Easyname212&theme=react" />
 </p>
 
 ---
