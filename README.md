@@ -1,41 +1,18 @@
-<br clear="both">
+# Hi 👋, I'm 0xb19d
 
-<h2 align="center">Streat Wall</h2>
+### A passionate Typescript developer
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Easyname212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Easyname212" height="30" width="40" /></a>
+</p>
 
-<br clear="both">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Easyname212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Easyname212&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Easyname212&locale=en&hide_title=false&layout=compact&card_width=320&theme=cobalt&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Easyname212&theme=tokyonight&no-bg=true&no-frame=true" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyname212&theme=tokyo-night&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Easyname212&show_icons=true&locale=en&layout=compact" alt="Easyname212" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Easyname212&show_icons=true&locale=en" alt="Easyname212" /></p>
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1449066478421803040/1481077700830433320/67bb68c8d9a0f858d221f413b31f37e2.png?ex=69b20098&is=69b0af18&hm=d51c658ee3304b5cf2a669e82f559d261b2ce313677e5b5c40a534f888db5aac"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Easyname212&" alt="Easyname212" /></p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Easyname212/Easyname212/output/snake.svg" alt="Snake animation" />
-
-###
