@@ -34,7 +34,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Easyname212&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyname212&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1485445141140603020/1552713227924668466/Characters_hanging_out_in_workspace_2K_20260924230631.jpeg?ex=6ab69c61&is=6ab54ae1&hm=3946d0fd67faacc106bc31749f50ce07c5fcad83b6b250bb4c1e9b24958f4a42"  />
-</div>
-
